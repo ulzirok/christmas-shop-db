@@ -13,20 +13,6 @@
       },
       "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift1.png"
     },
-    
-    {
-      "name": "Async Tamer",
-      "description": "Handles asynchronous code and promises like well-trained pets.",
-      "category": "For Work",
-      "categoryName": "work",
-      "superpowers": {
-        "live": "+100",
-        "create": "+400",
-        "love": "+200",
-        "dream": "+300"
-      },
-      "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift1.png"
-    },
     {
       "name": "CSS Tamer",
       "description": "Can make Flexbox and Grid work together like they were always best friends.",
@@ -131,7 +117,6 @@
       },
       "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift2.png"
     },
-    
     {
       "name": "Sleep Overlord",
       "description": "Sleeps 6 hours but feels like they had 10.",
@@ -142,19 +127,6 @@
         "create": "+500",
         "love": "+500",
         "dream": "+500"
-      },
-      "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift2.png"
-    },
-    {
-      "name": "Break Guru",
-      "description": "Takes a stretch break every hour without forgetting, no matter how focused.",
-      "category": "For Health",
-      "categoryName": "health",
-      "superpowers": {
-        "live": "+300",
-        "create": "+300",
-        "love": "+300",
-        "dream": "+400"
       },
       "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift2.png"
     },
@@ -249,20 +221,6 @@
       },
       "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift4.png"
     },
-    {
-      "name": "Error Laugher",
-      "description": "Laughs at code errors like they’re jokes instead of getting angry.",
-      "category": "For Harmony",
-      "categoryName": "harmony",
-      "superpowers": {
-        "live": "+300",
-        "create": "+200",
-        "love": "+500",
-        "dream": "+500"
-      },
-      "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift4.png"
-    },
-    
     {
       "name": "Inspiration Maestro",
       "description": "Finds inspiration on an empty screen as if masterpieces are already there.",
