@@ -14,19 +14,6 @@
       "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift1.png"
     },
     {
-      "name": "CSS Tamer",
-      "description": "Can make Flexbox and Grid work together like they were always best friends.",
-      "category": "For Work",
-      "categoryName": "work",
-      "superpowers": {
-        "live": "+200",
-        "create": "+500",
-        "love": "+200",
-        "dream": "+300"
-      },
-      "image": "https://raw.githubusercontent.com/ulzirok/christmas-shop-db/main/images/gift1.png"
-    },
-    {
       "name": "Time Hacker",
       "description": "Writes code at the last moment but always meets the deadline.",
       "category": "For Work",
