@@ -1,45 +1,6 @@
 {
   "gifts": [
     {
-      "name": "Bug Magnet",
-      "description": "Able to find bugs in code like they were placed there on purpose.",
-      "category": "For Work",
-      "categoryName": "work",
-      "superpowers": {
-        "live": "+500",
-        "create": "+500",
-        "love": "+200",
-        "dream": "+400"
-      },
-      "image": "assets/images/gift1.png"
-    },
-    {
-      "name": "Console.log Guru",
-      "description": "Uses console.log like a crystal ball to find any issue.",
-      "category": "For Work",
-      "categoryName": "work",
-      "superpowers": {
-        "live": "+500",
-        "create": "+500",
-        "love": "+200",
-        "dream": "+400"
-      },
-      "image": "assets/images/gift1.png"
-    },
-    {
-      "name": "Shortcut Cheater",
-      "description": "Knows every keyboard shortcut like they were born with them.",
-      "category": "For Work",
-      "categoryName": "work",
-      "superpowers": {
-        "live": "+500",
-        "create": "+500",
-        "love": "+400",
-        "dream": "+200"
-      },
-      "image": "assets/images/gift1.png"
-    },
-    {
       "name": "Merge Master",
       "description": "Merges branches in Git without conflicts, like a wizard during an exam.",
       "category": "For Work",
@@ -182,19 +143,7 @@
       },
       "image": "assets/images/gift2.png"
     },
-    {
-      "name": "Snack Resister",
-      "description": "Ignoring desktop snacks like a strict dietician.",
-      "category": "For Health",
-      "categoryName": "health",
-      "superpowers": {
-        "live": "+400",
-        "create": "+100",
-        "love": "+200",
-        "dream": "+400"
-      },
-      "image": "assets/images/gift2.png"
-    },
+    
     {
       "name": "Hydration Bot",
       "description": "Drinks the recommended 2 liters of water a day like a health-programmed robot.",
@@ -218,19 +167,6 @@
         "create": "+500",
         "love": "+500",
         "dream": "+500"
-      },
-      "image": "assets/images/gift2.png"
-    },
-    {
-      "name": "Break Guru",
-      "description": "Takes a stretch break every hour without forgetting, no matter how focused.",
-      "category": "For Health",
-      "categoryName": "health",
-      "superpowers": {
-        "live": "+300",
-        "create": "+300",
-        "love": "+300",
-        "dream": "+400"
       },
       "image": "assets/images/gift2.png"
     },
@@ -286,19 +222,7 @@
       },
       "image": "assets/images/gift2.png"
     },
-    {
-      "name": "Chair Exerciser",
-      "description": "Manages to work out without leaving the chair.",
-      "category": "For Health",
-      "categoryName": "health",
-      "superpowers": {
-        "live": "+500",
-        "create": "+500",
-        "love": "+500",
-        "dream": "+400"
-      },
-      "image": "assets/images/gift2.png"
-    },
+    
     {
       "name": "Caffeine Filter",
       "description": "Drinks coffee at night and still falls asleep with no problem.",
@@ -361,45 +285,6 @@
         "create": "+200",
         "love": "+500",
         "dream": "+400"
-      },
-      "image": "assets/images/gift4.png"
-    },
-    {
-      "name": "Deadline Sage",
-      "description": "Remains zen even when the deadline is close and the project manager is stressed.",
-      "category": "For Harmony",
-      "categoryName": "harmony",
-      "superpowers": {
-        "live": "+200",
-        "create": "+200",
-        "love": "+300",
-        "dream": "+500"
-      },
-      "image": "assets/images/gift4.png"
-    },
-    {
-      "name": "Inspiration Maestro",
-      "description": "Finds inspiration on an empty screen as if masterpieces are already there.",
-      "category": "For Harmony",
-      "categoryName": "harmony",
-      "superpowers": {
-        "live": "+300",
-        "create": "+200",
-        "love": "+400",
-        "dream": "+100"
-      },
-      "image": "assets/images/gift4.png"
-    },
-    {
-      "name": "Peace Keeper",
-      "description": "Maintains inner calm even in moments of intense crisis.",
-      "category": "For Harmony",
-      "categoryName": "harmony",
-      "superpowers": {
-        "live": "+200",
-        "create": "+200",
-        "love": "+500",
-        "dream": "+500"
       },
       "image": "assets/images/gift4.png"
     },
