@@ -1,19 +1,6 @@
 {
   "gifts": [
     {
-      "name": "Merge Master",
-      "description": "Merges branches in Git without conflicts, like a wizard during an exam.",
-      "category": "For Work",
-      "categoryName": "work",
-      "superpowers": {
-        "live": "+200",
-        "create": "+500",
-        "love": "+200",
-        "dream": "+300"
-      },
-      "image": "assets/images/gift1.png"
-    },
-    {
       "name": "Async Tamer",
       "description": "Handles asynchronous code and promises like well-trained pets.",
       "category": "For Work",
@@ -209,19 +196,7 @@
       },
       "image": "assets/images/gift2.png"
     },
-    {
-      "name": "Healthy Snacker",
-      "description": "Always picks fruit, even when chocolate is within arm’s reach.",
-      "category": "For Health",
-      "categoryName": "health",
-      "superpowers": {
-        "live": "+400",
-        "create": "+300",
-        "love": "+200",
-        "dream": "+400"
-      },
-      "image": "assets/images/gift2.png"
-    },
+    
     
     {
       "name": "Caffeine Filter",
@@ -327,19 +302,7 @@
       },
       "image": "assets/images/gift4.png"
     },
-    {
-      "name": "Coder Healer",
-      "description": "Can support a colleague in their darkest hour, even if it’s a 500 error.",
-      "category": "For Harmony",
-      "categoryName": "harmony",
-      "superpowers": {
-        "live": "+300",
-        "create": "+200",
-        "love": "+500",
-        "dream": "+500"
-      },
-      "image": "assets/images/gift4.png"
-    },
+    
     {
       "name": "Music Code Curator",
       "description": "Creates work playlists so good, even deadlines follow the rhythm.",
