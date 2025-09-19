@@ -6,6 +6,7 @@
       "description": "Able to find bugs in code like they were placed there on purpose.",
       "category": "For Work",
       "categoryName": "work",
+      "price": 100,
       "superpowers": {
         "live": "+500",
         "create": "+500",
@@ -20,6 +21,7 @@
       "description": "Writes code at the last moment but always meets the deadline.",
       "category": "For Work",
       "categoryName": "work",
+      "price": 75,
       "superpowers": {
         "live": "+500",
         "create": "+500",
@@ -34,6 +36,7 @@
       "description": "Creates perfect layouts on the first try, like they can read the designer's mind.",
       "category": "For Work",
       "categoryName": "work",
+      "price": 120,
       "superpowers": {
         "live": "+500",
         "create": "+300",
@@ -48,6 +51,7 @@
       "description": "Understands cryptic documentation as if they wrote it themselves.",
       "category": "For Work",
       "categoryName": "work",
+      "price": 150,
       "superpowers": {
         "live": "+500",
         "create": "+500",
@@ -62,6 +66,7 @@
       "description": "Accepts client revisions with the Zen calm of Buddha.",
       "category": "For Work",
       "categoryName": "work",
+      "price": 97,
       "superpowers": {
         "live": "+300",
         "create": "+500",
@@ -76,6 +81,7 @@
       "description": "Writes code so concise that one line does more than a whole file.",
       "category": "For Work",
       "categoryName": "work",
+      "price": 105,
       "superpowers": {
         "live": "+500",
         "create": "+500",
@@ -90,6 +96,7 @@
       "description": "Can sit for hours, but maintains perfect posture like a ballerina.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 80,
       "superpowers": {
         "live": "+400",
         "create": "+500",
@@ -104,6 +111,7 @@
       "description": "Sleeps 6 hours but feels like they had 10.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 89,
       "superpowers": {
         "live": "+400",
         "create": "+500",
@@ -118,6 +126,7 @@
       "description": "Can work all day at the monitor without feeling like their eyes are on fire.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 96,
       "superpowers": {
         "live": "+100",
         "create": "+300",
@@ -132,6 +141,7 @@
       "description": "Masters meditation right at the keyboard.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 77,
       "superpowers": {
         "live": "+100",
         "create": "+400",
@@ -146,6 +156,7 @@
       "description": "Easily switches from coding to yoga and back.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 94,
       "superpowers": {
         "live": "+400",
         "create": "+400",
@@ -160,6 +171,7 @@
       "description": "Always picks fruit, even when chocolate is within arm’s reach.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 91,
       "superpowers": {
         "live": "+400",
         "create": "+300",
@@ -174,6 +186,7 @@
       "description": "Manages to work out without leaving the chair.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 125,
       "superpowers": {
         "live": "+500",
         "create": "+500",
@@ -188,6 +201,7 @@
       "description": "Drinks coffee at night and still falls asleep with no problem.",
       "category": "For Health",
       "categoryName": "health",
+      "price": 130,
       "superpowers": {
         "live": "+400",
         "create": "+300",
@@ -202,6 +216,7 @@
       "description": "Finds joy in the little things—even in a build that finishes unexpectedly fast.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 110,
       "superpowers": {
         "live": "+200",
         "create": "+200",
@@ -216,6 +231,7 @@
       "description": "Finds inspiration on an empty screen as if masterpieces are already there.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 88,
       "superpowers": {
         "live": "+300",
         "create": "+200",
@@ -230,6 +246,7 @@
       "description": "Maintains inner calm even in moments of intense crisis.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 109,
       "superpowers": {
         "live": "+200",
         "create": "+200",
@@ -244,6 +261,7 @@
       "description": "Feels the team’s mood and can lift everyone’s spirits.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 140,
       "superpowers": {
         "live": "+500",
         "create": "+200",
@@ -258,6 +276,7 @@
       "description": "Can lighten any tense situation with a joke that even bugs laugh at.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 155,
       "superpowers": {
         "live": "+300",
         "create": "+200",
@@ -272,6 +291,7 @@
       "description": "Knows when to just step back from the keyboard and breathe.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 115,
       "superpowers": {
         "live": "+300",
         "create": "+200",
@@ -286,6 +306,7 @@
       "description": "Can support a colleague in their darkest hour, even if it’s a 500 error.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 200,
       "superpowers": {
         "live": "+300",
         "create": "+200",
@@ -300,6 +321,7 @@
       "description": "Creates work playlists so good, even deadlines follow the rhythm.",
       "category": "For Harmony",
       "categoryName": "harmony",
+      "price": 250,
       "superpowers": {
         "live": "+300",
         "create": "+200",
